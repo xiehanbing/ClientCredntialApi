@@ -1,0 +1,14 @@
+H:\MapperRepository\identityServerSample\ClientCredntialApi\bin\Debug\netcoreapp2.1\ClientCredntialApi.deps.json
+H:\MapperRepository\identityServerSample\ClientCredntialApi\bin\Debug\netcoreapp2.1\ClientCredntialApi.runtimeconfig.json
+H:\MapperRepository\identityServerSample\ClientCredntialApi\bin\Debug\netcoreapp2.1\ClientCredntialApi.runtimeconfig.dev.json
+H:\MapperRepository\identityServerSample\ClientCredntialApi\bin\Debug\netcoreapp2.1\ClientCredntialApi.dll
+H:\MapperRepository\identityServerSample\ClientCredntialApi\obj\Debug\netcoreapp2.1\ClientCredntialApi.csprojAssemblyReference.cache
+H:\MapperRepository\identityServerSample\ClientCredntialApi\obj\Debug\netcoreapp2.1\ClientCredntialApi.csproj.CoreCompileInputs.cache
+H:\MapperRepository\identityServerSample\ClientCredntialApi\obj\Debug\netcoreapp2.1\ClientCredntialApi.RazorAssemblyInfo.cache
+H:\MapperRepository\identityServerSample\ClientCredntialApi\obj\Debug\netcoreapp2.1\ClientCredntialApi.RazorAssemblyInfo.cs
+H:\MapperRepository\identityServerSample\ClientCredntialApi\obj\Debug\netcoreapp2.1\ClientCredntialApi.AssemblyInfoInputs.cache
+H:\MapperRepository\identityServerSample\ClientCredntialApi\obj\Debug\netcoreapp2.1\ClientCredntialApi.AssemblyInfo.cs
+H:\MapperRepository\identityServerSample\ClientCredntialApi\obj\Debug\netcoreapp2.1\ClientCredntialApi.RazorTargetAssemblyInfo.cache
+H:\MapperRepository\identityServerSample\ClientCredntialApi\bin\Debug\netcoreapp2.1\ClientCredntialApi.pdb
+H:\MapperRepository\identityServerSample\ClientCredntialApi\obj\Debug\netcoreapp2.1\ClientCredntialApi.dll
+H:\MapperRepository\identityServerSample\ClientCredntialApi\obj\Debug\netcoreapp2.1\ClientCredntialApi.pdb
